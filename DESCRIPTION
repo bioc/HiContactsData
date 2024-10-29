@@ -1,6 +1,6 @@
 Package: HiContactsData
 Title: HiContacts companion data package
-Version: 1.8.0
+Version: 1.9.0
 Date: 2022-08-16
 Authors@R: 
     person(given = "Jacques",
